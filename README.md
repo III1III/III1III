@@ -37,9 +37,6 @@
 <h3>Ferramentas de Gerenciamento de Servidores:</h3>
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
   
-  
-<h3 align="left">Estatísticas:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iii1iii&show_icons=true&theme=dracula&locale=en&layout=compact" alt="iii1iii" /></p>
 
 <h3 align="left">Contato:</h3>
 <p align="left">
