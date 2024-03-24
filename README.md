@@ -1,4 +1,3 @@
-<h1 align="center">Sobre mim </h1>
 <h3 align="center">Dev. Full-Stack Web</h3>
 
 <h3>Sistema Operacional:</h3>
